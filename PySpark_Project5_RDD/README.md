@@ -1,12 +1,12 @@
 # PySpark_Project5_RDD 
-![SparkRDD](https://github.com/Lunczer93/PySpark_Project5_RDD/assets/65483365/d0d8d32f-943a-4f76-8305-d398df6b3113)
 # INTRODUCTION
 <br>***Spark*** is a unified analytics engine for large-scale data processing. It provides high-level APIs in _Scala, Java, Python and R_.
 <br>It also supports ***pandas API on Spark*** for _pandas workloads_.
 <br> In addition, Spark revoles around the concept of a ***Resilient Distributed Dataset (RDD)***. It is a fault-tolerant collection of elements that can be operated on in parallel.
 # PURPOSE OF PROJECT
 <br>The main goal of this project was to create RDD and use transformations and actions in order to practise these ones.
-<br>_All steps are described in the project._
+<br>All steps with detailed information is also described in [PySpark_Project5_RDD.ipynb](https://github.com/Longwinter93/PySpark_Projects/blob/main/PySpark_Project5_RDD/PySpark_Project5_RDD.ipynb)
+
 # USE OF TRANSFORMATIONS & ACTIONS
 1. These **actions**, which are supported by Spark, were used: collect(), glom(),first(),take(), reduce(func) with lambda, fold(), max(), min(), mean(), std(),countByKey(),countByValue(),sorted(),sortBy() and sample().
 2. These **transformations**, which are supported by Spark, were used: map(func) with lambda, filter(func) with lambda, flatmap(func) with lambda, reduceByKey(func) with lambda, sortByKey(), groupByKey(), groupBy(func) with lambda, union(), intersection(), cartesian(), subtract(), collectAsMap() and mapValues().

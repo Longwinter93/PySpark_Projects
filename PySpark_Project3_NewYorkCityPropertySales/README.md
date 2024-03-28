@@ -1,6 +1,4 @@
 # PySpark_Project3_NewYorkCityPropertySales
-![newyorkcity](https://github.com/Lunczer93/PySpark_Project3_NewYorkCityPropertySales/assets/65483365/e0bc2017-f5bd-49e7-addd-5d1e2f941721)
-
 # INTRODUCTION 
 <br>Residential buildings and other buildings in the New York City are highly popular.
 <br>New York City is composed of five boroughs in particular  The Bronx, Brooklyn, Manhattan, Queens, and Staten Island.
@@ -12,7 +10,8 @@
 <br>Analysis was perfomed by **PySpark**. **PySpark** is the **Python API** for _Apache Spark_. 
 <br>***Advanced functions for ETL/ELT transformations were used to create this project.***
 <br>Before analysis, data was cleaned using advanced **PySpark functions & methods**
-<br>_All steps are described in the project._
+<br>All steps with detailed information is also described in [PySpark_Project3_NewYorkCityPropertySales.ipynb](https://github.com/Longwinter93/PySpark_Projects/blob/main/PySpark_Project3_NewYorkCityPropertySales/PySpark_Project3_NewYorkCityPropertySales.ipynb)
+
 # MAIN CONCLUSIONS
 
 <br>1. Statistical methods such as sum, average, maximum and minimum values of Sales were calculated for all boroughs
