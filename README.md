@@ -6,6 +6,8 @@
 <br />The main abstraction Spark provides is a resilient distributed dataset **(RDD)**, which is a collection of immutable elements partitioned across the nodes of the cluster that can be operated on in parallel. 
 <br />It is also possible to ask Spark to persist an **RDD** in memory, allowing it to be reused efficiently across parallel operations. Last but not least, **RDDs** automatically recover from node failures.
 <br />The second abstraction in Spark is **shared variables** that can be used in parallel operations. Spark supports two types of shared variables: **broadcast** variables and **accumulators** variables.
+<br />Furthermore, **Lazy Evaluation** is a key feature of Apache Spark. It improves efficiency and performance.
+<br />It refers to the strategy where **transformations** on distributed datasets, are not immediately executed, but their execution is delayed until an **action** is called. If an action is called, Spark starts looking at transformations and it creates a DAG. DAG is the sequence of operations that are necessary to perform in order to obtain the output.
 
 <br />This repository is made up of five projects.
 <br />All descriptions are related to these projects are included in each folder.
