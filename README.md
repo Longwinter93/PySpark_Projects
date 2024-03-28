@@ -18,4 +18,4 @@
 - ### [PySpark_Project4_PizzaRestaurant](https://github.com/Longwinter93/PySpark_Projects/tree/main/PySpark_Project4_PizzaRestaurant)
 - ### [PySpark_Project5_RDD](https://github.com/Longwinter93/PySpark_Projects/tree/main/PySpark_Project5_RDD)
 
-###### To create README , this site was used [Apache Spark](https://spark.apache.org/docs/latest/rdd-programming-guide.html#overview).
+###### To create README, this site [Apache Spark](https://spark.apache.org/docs/latest/rdd-programming-guide.html#overview) was used.
