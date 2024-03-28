@@ -5,7 +5,6 @@
 <br />**Spark** application consists of a driver program that runs the user's main function and executes various parallel operations on a cluster. 
 <br />The main abstraction Spark provides is a resilient distributed dataset **(RDD)**, which is a collection of immutable elements partitioned across the nodes of the cluster that can be operated on in parallel. 
 <br />It is also possible to ask Spark to persist an **RDD** in memory, allowing it to be reused efficiently across parallel operations. Last but not least, **RDDs** automatically recover from node failures.
-
 <br />The second abstraction in Spark is **shared variables** that can be used in parallel operations. Spark supports two types of shared variables: **broadcast** variables and **accumulators** variables.
 
 <br />This repository is made up of five projects.
