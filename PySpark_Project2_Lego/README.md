@@ -1,6 +1,4 @@
 # PySpark_Project2_Lego
-![lego](https://github.com/Lunczer93/PySpark_Project2_Lego/assets/65483365/50defbf7-8629-4bc8-89fc-11477cbc2da1)
-
 # INTRODUCTION 
 <br>Inventory that stores goods that are related to Lego  was  analyzed by using ***Apache Spark***.
 <br>***Spark*** is a unified analytics engine for large-scale data processing. It provides high-level APIs in _Scala, Java, Python and R_.
@@ -10,7 +8,8 @@
 <br>Analysis was perfomed by **PySpark**. **PySpar**k is the **Python API** for _Apache Spark_. 
 <br>***Advanced functions for ETL/ELT transformations were used to create this project.***
 <br>Before analysis, data was cleaned using advanced **PySpark functions & methods**
-<br>_All steps are described in the project._
+<br>All steps with detailed information is also described in [PySpark_Project2_Lego.ipynb](https://github.com/Longwinter93/PySpark_Projects/blob/main/PySpark_Project2_Lego/PySpark_Project2_Lego.ipynb)
+
 # MAIN CONCLUSIONS
 1. Minifigure Series 1 [Random Bag] has the greatest quantity of sets (60)
 2. A Town Theme that belongs to a Dacta Buildings Set has the greatest quantity in the Inventory (22)

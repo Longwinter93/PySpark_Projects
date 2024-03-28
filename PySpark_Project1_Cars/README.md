@@ -1,5 +1,4 @@
 # PySpark_Project1_Cars
-![image](https://github.com/Lunczer93/PySpark_Project1_Cars/assets/65483365/0a088ba6-2243-48cd-9f28-02d2162bc8e4)
 # INTRODUCTION 
 Cars from four markets (Argentina, Nigeria, USA and Poland) were analyzed by using ***Apache Spark***.
 ***Spark*** is a unified analytics engine for large-scale data processing. It provides high-level APIs in _Scala, Java, Python and R_.
@@ -8,7 +7,8 @@ It also supports ***pandas API on Spark*** for _pandas workloads_.
 # ANALYSIS
 Analysis was perfomed by **PySpark**. **PySpar**k is the **Python API** for _Apache Spark_. ***Advanced functions for ETL/ELT transformations were used to create this project.***
 <br>Before analysis, data was cleaned using advanced **PySpark functions & methods**
-<br>_All steps are described in the project._
+<br>All steps with detailed information is also described in [PySpark_Project1_Cars.ipynb](https://github.com/Longwinter93/PySpark_Projects/blob/main/PySpark_Project1_Cars/PySpark_Project1_Cars.ipynb)
+
 # MAIN CONCLUSIONS
 1. Volkswagen Amarok White Color is the most expensive car $772146 , while Volkswagen Gold Gray Color  is the lowest expensive car $8000 from Argentina
 2. There are 34 cars from Argentina that costs greater than $500000

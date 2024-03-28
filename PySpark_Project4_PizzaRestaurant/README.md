@@ -1,5 +1,4 @@
 # PySpark_Project4_PizzaRestaurant 
-![pizza](https://github.com/Lunczer93/PySpark_Project4_PizzaRestaurant/assets/65483365/a421a0bc-f0ff-4a89-be13-901c2dc26dfc)
 # INTRODUCTION
 <br>Pizza is one of the most favourite meals in the world.<br>A pizza restaurant serves a various kind of pizza to customers.<br> The menu and services of the pizza restaurant was analyzed by using ***Apache Spark***.
 <br>***Spark*** is a unified analytics engine for large-scale data processing. It provides high-level APIs in _Scala, Java, Python and R_.
@@ -9,7 +8,8 @@
 <br>Analysis was perfomed by **PySpark**. **PySpar**k is the **Python API** for _Apache Spark_. 
 <br>***Advanced functions for ETL/ELT transformations were used to create this project.***
 <br>Before analysis, data was cleaned using advanced **PySpark functions & methods**
-<br>_All steps are described in the project._
+<br>All steps with detailed information is also described in [PySpark_Project4_PizzaRestaurant.ipynb](https://github.com/Longwinter93/PySpark_Projects/blob/main/PySpark_Project4_PizzaRestaurant/PySpark_Project4_PizzaRestaurant.ipynb)
+
 # MAIN CONCLUSIONS
 1. The greatest Total Amount belongs to _CLASSIC_ Pizza Category ($220053.10), while the smallest Total Amount belongs to _VEGGIE_ Pizza Category ($193690.45)
 2. The Thai Chicken Pizza, The Barbecue Chicken Pizza, The California Chicken Pizza, The Classic Deluxe Pizza, The Spicy Italian Pizza, The Southwest Chicken Pizza and The Italian Supreme Pizza are classified as the most sold pizza, while The Calabrese Pizza, The Spinach Pesto Pizza, The Mediterranean Pizza, The Spinach Supreme Pizza, The Green Garden Pizza and |The Brie Carre Pizza are classified as the least sold pizza
